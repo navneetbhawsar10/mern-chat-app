@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000h\u0000a\u0000t\u0000-\u0000a\u0000p\u0000p\u0000-\u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetbhawsar10/chat-app-backend.git"
+  },
+  "author": "navneet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneetbhawsar10/chat-app-backend/issues"
+  },
+  "homepage": "https://github.com/navneetbhawsar10/chat-app-backend#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  }
+}
